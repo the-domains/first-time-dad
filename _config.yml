@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.2048904
 color:
   saturation: 0.9093332
   brandStrength: 0.2394604
-  lightness: 0.8094435
+  rhythmicContrast: 0.817032
   brandColors:
     - '#ACB4B4'
     - '#532F20'
     - '#8F816E'
     - '#5B6764'
     - '#27644C'
-  rhythmicContrast: 0.817032
+  lightness: 0.8094435
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.3145025
+typography_spectrum: 0.2048904
 name: First Time Dad
